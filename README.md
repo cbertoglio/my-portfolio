@@ -7,9 +7,9 @@ Hello! I am a senior who is gathering skills in Psychology, Forensic Studies, Cr
 
 With minor skills in programming, calculating, and statistical analysis, I am able to effectively analyze data, and to use these skills to conduct research in the future. I am adept at using Microsoft Excel, JDoodle, and IBM SPSS Statistics. 
 
-My expanding skill set, commitment to quality analyses, and passion for research makes me as a valuable asset.  In my spare time, I like to [Hobby 1] and [Hobby 2]. 
+My expanding skill set, commitment to quality analyses, and passion for research makes me as a valuable asset.  In my spare time, I am focusing on researching internships for after I graduate and preparing for data collection for my indidvidual research experience in Spring 2025. 
 
-You can find me on [LinkedIn Hyperlink], [Social Media 1] or [Social Media 2].
+You can find me on [LinkedIn](https://www.linkedin.com/in/corrine-bertoglio-786949362/).
 
 ### Education
 BA in Psychology  
