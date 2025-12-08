@@ -1,4 +1,4 @@
-<img src="/Assets/Banner_picture.png" width="3200" height="410">
+![Sunflower banner](Assets/Banner_picture.png)
 <h3>Corrine Bertoglio's portfolio</h3>
 
 ### About Me
