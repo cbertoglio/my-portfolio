@@ -1,7 +1,7 @@
 ![Sunflowers](/Assets/Banner%20picture.png)
 # Corrine Bertoglio's portfolio
-This will include all of the projects I have completed for CS106 in Fall 2025.
 
+![headshot](/Assets/headhsot.jpeg) 
 ### About Me
 Hello! I am a senior who is gathering skills in Psychology, Forensic Studies, Criminology, and Computer Science. 
 
