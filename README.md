@@ -1,5 +1,5 @@
 <img src="/Assets/Banner_picture.png" width="3200" height="410">
-# Corrine Bertoglio's portfolio
+<h3>Corrine Bertoglio's portfolio</h3>
 
 ### About Me
 Hello! I am a senior who is gathering skills in Psychology, Forensic Studies, Criminology, and Computer Science. 
