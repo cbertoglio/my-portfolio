@@ -1,4 +1,3 @@
-![Sunflowers](/Assets/Banner_picture.png)
 <img src="/Assets/Banner_picture.png" width="3200" height="410">
 # Corrine Bertoglio's portfolio
 
