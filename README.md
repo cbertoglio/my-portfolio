@@ -40,7 +40,7 @@ The Grade Calculator was very handy when it came to organizing my grades for my 
 >
 >The grade calculator is very handy to stay on top of assignments I have already completed, versus ones that I still need to keep in mind. I have tried to make an effort to keep up with updating the calculator as my teachers grade work so that I know what my current grade is. I am also planning to elaborate on this project by building a grade calculator for my courses in the spring semester. 
 
-Link to project: [Grade Calculator](https://studentsloyola-my.sharepoint.com/:x:/g/personal/cbbertoglio_loyola_edu/IQClycAp8tudQbyNS1xYmuYAASZNiTquOJ7uaNtV6-WceZM?e=YMyV1k "Grade Calculator")
+Link to project: [Grade Calculator](https://studentsloyola-my.sharepoint.com/:x:/r/personal/cbbertoglio_loyola_edu/Documents/Corrine%20Bertoglio_Excel%20Assessment_CS106.03_10%20am_Assessement%208.xlsx?d=w29c0c9a5dbf2419dbc8d4b5c589ae600&csf=1&web=1&e=l5lqgh&nav=MTVfezAyQTc5MkQ5LTRBNzctNDg1My04RDNBLTk5Q0FGNEYwNkNFQ30 "Grade Calculator")
 
 #### SPSS Statistical Analysis
 I used SPSS to analyze data that was given to me, as well as data from research I had conducted myself in the spring 2025 semester. 
