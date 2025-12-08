@@ -20,13 +20,14 @@ Loyola University Maryland
 The personality test was one way that we enhanced out skills using python coding in JDoodle. 
 
 - ![Personality Test](Assets/Personality_test.png)
-- Link to complete the test in JDoodle: https://www.jdoodle.com/ga/MXN9i0BFteLm4L0u%2FwIorQ%3D%3D 
 
 >The purpose of the personality test was to introduce the concept of loops. We used while loops as error checking to ensure that the participants could only input A, B, C, or D as their answers. We also learned how to use if/elif; in this case, we used it for scoring and for a total personality score. 
 >
 >I did not face many challenges during the setup of the personality test. However, one issue I constantly faced was the aesthetic of the output. I struggled with where to put a new line or indent, and I found myself having to stop execution many times to fix little mistakes like this. 
 >
 >With the goal of creating a personality test that does what it is intended to do, I would say I achieved my goal. I think further imrovements would be to clean up the code, if there is a way to do so. For example, having to copy and paste the error checking 10 times was a bit of a pain. 
+
+Link to project: [Personality Test](https://www.jdoodle.com/ga/MXN9i0BFteLm4L0u%2FwIorQ%3D%3D)
 
 #### Grade Calculator
 The Grade Calculator was very handy when it came to organizing my grades for my hardest classes. 
@@ -38,6 +39,8 @@ The Grade Calculator was very handy when it came to organizing my grades for my 
 >The grade calculator was challenging for me. The most difficult part was the formula for the total percentage of all assignments in the class. I kept getting outrageously high numbers and it took me a while to figure out how to make it make sense. 
 >
 >The grade calculator is very handy to stay on top of assignments I have already completed, versus ones that I still need to keep in mind. I have tried to make an effort to keep up with updating the calculator as my teachers grade work so that I know what my current grade is. I am also planning to elaborate on this project by building a grade calculator for my courses in the spring semester. 
+
+Link to project: [Grade Calculator](https://studentsloyola-my.sharepoint.com/:x:/g/personal/cbbertoglio_loyola_edu/IQClycAp8tudQbyNS1xYmuYAASZNiTquOJ7uaNtV6-WceZM?e=YMyV1k)
 
 #### SPSS Statistical Analysis
 I used SPSS to analyze data that was given to me, as well as data from research I had conducted myself in the spring 2025 semester. 
