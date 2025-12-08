@@ -1,7 +1,6 @@
-![Sunflowers](/Assets/Banner%20picture.png)
+![Sunflowers](Assets/Banner picture.png)<img src="/Assets/Banner picture.png" width="3200" height="410">
 # Corrine Bertoglio's portfolio
 
-![headshot](/Assets/headhsot.jpeg) 
 ### About Me
 Hello! I am a senior who is gathering skills in Psychology, Forensic Studies, Criminology, and Computer Science. 
 
@@ -20,7 +19,7 @@ Loyola University Maryland
 #### Personality Test
 The personality test was one way that we enhanced out skills using python coding in JDoodle. 
 
-- ![Personality Test](/assets/Porfolio%20-%20personality%20test.png)
+- ![Personality Test](Assets/Porfolio - personality test.png)
 - Link to complete the test in JDoodle: https://www.jdoodle.com/ga/MXN9i0BFteLm4L0u%2FwIorQ%3D%3D 
 
 >The purpose of the personality test was to introduce the concept of loops. We used while loops as error checking to ensure that the participants could only input A, B, C, or D as their answers. We also learned how to use if/elif; in this case, we used it for scoring and for a total personality score. 
@@ -32,7 +31,7 @@ The personality test was one way that we enhanced out skills using python coding
 #### Grade Calculator
 The Grade Calculator was very handy when it came to organizing my grades for my hardest classes. 
 
-- ![Grade Calculator](/assets/Portfolio%20-%20Grade%20Calculator.png)
+- ![Grade Calculator](Assets/Portfolio - Grade Calculator.png)
 
 >The putpose of the grade calculator was to have all of the assignments for each course in one place. Another purpose was to be able to have a running calculation of my grade throughout the semester. One feature I like is that I can see how a grade on one assignement will affect my overall grade in the course. 
 >
@@ -43,9 +42,9 @@ The Grade Calculator was very handy when it came to organizing my grades for my 
 #### SPSS Statistical Analysis
 I used SPSS to analyze data that was given to me, as well as data from research I had conducted myself in the spring 2025 semester. 
 
-- ![Descriptive Statistics](/Assets/SPSS%201.png)
-- ![Scatter Plot](/Assets/SPSS%202.png)
-- ![Data Analysis](/Assets/SPSS%203.png)
+- ![Descriptive Statistics](Assets/SPSS 1.png)
+- ![Scatter Plot](Assets/SPSS 2.png)
+- ![Data Analysis](Assets/SPSS 3.png)
 
 >Working with SPSS was the main reason I wanted to take this class. As a psychology major, I dabbled with SPSS in Spring of 2025 when I took research methods 2 and completed a research study with real data. I was hoping that this course would either help to solidify those skills or to establish new ones that I can use in my individual research study. 
 >
