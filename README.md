@@ -27,7 +27,7 @@ The personality test was one way that we enhanced out skills using python coding
 >
 >With the goal of creating a personality test that does what it is intended to do, I would say I achieved my goal. I think further imrovements would be to clean up the code, if there is a way to do so. For example, having to copy and paste the error checking 10 times was a bit of a pain. 
 
-Link to project: [Personality Test](https://www.jdoodle.com/ga/MXN9i0BFteLm4L0u%2FwIorQ%3D%3D)
+Link to project: [Personality Test](https://www.jdoodle.com/ga/MXN9i0BFteLm4L0u%2FwIorQ%3D%3D "Personality Test")
 
 #### Grade Calculator
 The Grade Calculator was very handy when it came to organizing my grades for my hardest classes. 
@@ -40,7 +40,7 @@ The Grade Calculator was very handy when it came to organizing my grades for my 
 >
 >The grade calculator is very handy to stay on top of assignments I have already completed, versus ones that I still need to keep in mind. I have tried to make an effort to keep up with updating the calculator as my teachers grade work so that I know what my current grade is. I am also planning to elaborate on this project by building a grade calculator for my courses in the spring semester. 
 
-Link to project: [Grade Calculator](https://studentsloyola-my.sharepoint.com/:x:/g/personal/cbbertoglio_loyola_edu/IQClycAp8tudQbyNS1xYmuYAASZNiTquOJ7uaNtV6-WceZM?e=YMyV1k)
+Link to project: [Grade Calculator](https://studentsloyola-my.sharepoint.com/:x:/g/personal/cbbertoglio_loyola_edu/IQClycAp8tudQbyNS1xYmuYAASZNiTquOJ7uaNtV6-WceZM?e=YMyV1k "Grade Calculator")
 
 #### SPSS Statistical Analysis
 I used SPSS to analyze data that was given to me, as well as data from research I had conducted myself in the spring 2025 semester. 
